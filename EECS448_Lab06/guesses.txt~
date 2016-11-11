@@ -1,0 +1,6 @@
+Guess 1. Search will always return true no matter what's the number you want to search.
+Guess 2. When remove nodes from the list, size won't reduce.
+Guess 3. IsEmpty will return true when there are some nodes in the list.
+Guess 4. addBack, addFront, removeBack and removeFront seems to work. I am guessing that addBack will addFront or removeBack will removeFront and vice versa.
+
+These are my best guesses \(^_^)/!
